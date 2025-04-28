@@ -1,4 +1,6 @@
 # 📄 Report Generator com Node.js, PDFMake e PostgreSQL
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 
 Projeto desenvolvido como prática acompanhando as aulas da [Dani Leão no YouTube](https://youtu.be/WG1EYRhny3M?si=PyLaRgrJNRkb5jjG).  
 O objetivo foi aprender a gerar relatórios de produtos em PDF dinamicamente, puxando dados de um banco de dados PostgreSQL.
